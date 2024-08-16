@@ -1,0 +1,14 @@
+# ninja log v6
+6	106	7454479396406353	CMakeFiles/Algoritmos.dir/exercise/imc.c.obj	20a08a9cddd07f8
+5	88	7454483396844550	CMakeFiles/Algoritmos.dir/exercise/helloWorld.c.obj	525f2044f8fe906b
+120	275	7454839175526136	Algoritmos.exe	aac85ebaf757c985
+2	86	7454488347326438	CMakeFiles/Algoritmos.dir/exercise/numAnSu.c.obj	7f137e98a4b0636f
+2	82	7454497254526952	CMakeFiles/Algoritmos.dir/exercise/daysBirth.c.obj	96fff49ff2f2034e
+2	234	7454841453071580	build.ninja	97c82a0c44aa98ab
+2	89	7454495196247508	CMakeFiles/Algoritmos.dir/exercise/doubleTriple.c.obj	feea19d4494f8bf1
+1	80	7454483838550746	CMakeFiles/Algoritmos.dir/exercise/randomPhrase.c.obj	32336950f3ef4184
+2	89	7454491516820899	CMakeFiles/Algoritmos.dir/exercise/ctoF.c.obj	ead59923454a0549
+6	136	7454835620441013	CMakeFiles/Algoritmos.dir/exercise/dolarToReal.c.obj	e873aad182db3b7b
+3	119	7454839174357147	CMakeFiles/Algoritmos.dir/exercise/calcVol.c.obj	83f62fbc54088618
+5	158	7454841464750479	CMakeFiles/Algoritmos.dir/exercise/imc.c.obj	20a08a9cddd07f8
+160	374	7454841466301605	Algoritmos.exe	2711bfb8f055ba50
