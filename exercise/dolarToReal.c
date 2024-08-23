@@ -2,8 +2,10 @@
 // Created by artur on 15/08/2024.
 //
 #include <stdio.h>
+#include <locale.h>
 
 int main(void) {
+    setlocale(LC_ALL, "Portuguese");
     float dolar, real, convert;
     printf("Digite a cotacao do dolar para real: ");
     scanf("%f", &dolar);

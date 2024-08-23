@@ -2,8 +2,10 @@
 // Created by artur on 15/08/2024.
 //
 #include <stdio.h>
+#include <locale.h>
 
 int main(void) {
+    setlocale(LC_ALL, "Portuguese");
     float num1, num2;
     printf("Digite um numero: ");
     scanf("%f", &num1);

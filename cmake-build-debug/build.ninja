@@ -41,37 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/artur/CLionProjects/Algoritmos/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target Algoritmos
+# Object build statements for EXECUTABLE target new_target
 
 
 #############################################
-# Order-only phony target for Algoritmos
+# Order-only phony target for new_target
 
-build cmake_object_order_depends_target_Algoritmos: phony || .
+build cmake_object_order_depends_target_new_target: phony || .
 
-build CMakeFiles/Algoritmos.dir/exercise/imc.c.obj: C_COMPILER__Algoritmos_unscanned_Debug C$:/Users/artur/CLionProjects/Algoritmos/exercise/imc.c || cmake_object_order_depends_target_Algoritmos
-  DEP_FILE = CMakeFiles\Algoritmos.dir\exercise\imc.c.obj.d
+build CMakeFiles/new_target.dir/exercise/alunoNota.c.obj: C_COMPILER__new_target_unscanned_Debug C$:/Users/artur/CLionProjects/Algoritmos/exercise/alunoNota.c || cmake_object_order_depends_target_new_target
+  DEP_FILE = CMakeFiles\new_target.dir\exercise\alunoNota.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Algoritmos.dir
-  OBJECT_FILE_DIR = CMakeFiles\Algoritmos.dir\exercise
+  OBJECT_DIR = CMakeFiles\new_target.dir
+  OBJECT_FILE_DIR = CMakeFiles\new_target.dir\exercise
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target Algoritmos
+# Link build statements for EXECUTABLE target new_target
 
 
 #############################################
-# Link the executable Algoritmos.exe
+# Link the executable new_target.exe
 
-build Algoritmos.exe: C_EXECUTABLE_LINKER__Algoritmos_Debug CMakeFiles/Algoritmos.dir/exercise/imc.c.obj
+build new_target.exe: C_EXECUTABLE_LINKER__new_target_Debug CMakeFiles/new_target.dir/exercise/alunoNota.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\Algoritmos.dir
+  OBJECT_DIR = CMakeFiles\new_target.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = Algoritmos.exe
-  TARGET_IMPLIB = libAlgoritmos.dll.a
-  TARGET_PDB = Algoritmos.exe.dbg
+  TARGET_FILE = new_target.exe
+  TARGET_IMPLIB = libnew_target.dll.a
+  TARGET_PDB = new_target.exe.dbg
 
 
 #############################################
@@ -99,7 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build Algoritmos: phony Algoritmos.exe
+build new_target: phony new_target.exe
 
 # =============================================================================
 # Folder targets.
@@ -109,7 +109,7 @@ build Algoritmos: phony Algoritmos.exe
 #############################################
 # Folder: C:/Users/artur/CLionProjects/Algoritmos/cmake-build-debug
 
-build all: phony Algoritmos.exe
+build all: phony new_target.exe
 
 # =============================================================================
 # Built-in targets
