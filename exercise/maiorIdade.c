@@ -4,14 +4,12 @@
 #include <stdio.h>
 
 int main() {
-    int cont,idade;
+    int cont,idade,qtd;
     for(cont = 0; cont < 10; cont++) {
         scanf("%d", &idade);
         if (idade >= 18) {
-            printf("Voce e maior de idade\n");
-        }
-        else {
-            printf("Voce e menor de idade\n");
+            qtd++;
         }
     }
+    printf("%d maiores de idade", qtd);
 }

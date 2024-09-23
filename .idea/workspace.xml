@@ -23,34 +23,25 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed6757a7-fd01-4068-87b6-05dd51dcefb3" name="Changes" comment="adding lab.algorithm exercises">
+    <list default="true" id="ed6757a7-fd01-4068-87b6-05dd51dcefb3" name="Changes" comment="adding new exercise files">
+      <change afterPath="$PROJECT_DIR$/exercise/doWhileLer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/forLer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcAreaC.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcDivCinco.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcFat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcImparPar.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcMaiorMenor.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcMediaNota.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcTipo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcVolRet.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/funcZero.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/impar.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/ordemDec.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise/tabuada.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2e6e05c5336560bdc916.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Algoritmos-Debug-115366dafb3e367bfaf4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Algoritmos.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Algoritmos.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algoritmos.dir/exercise/imc.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Algoritmos.dir/exercise/imc.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/alunoNota.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/alunoNota.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/calcVol.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/calcVol.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/calculadora.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/calculadora.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/ctoF.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/ctoF.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/daysBirth.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/daysBirth.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/divisor.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/divisor.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/dolarToReal.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/dolarToReal.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/doubleTriple.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/doubleTriple.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/helloWorld.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/helloWorld.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/imc.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/imc.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/lanchonete.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/lanchonete.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/numAnSu.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/numAnSu.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/randomPhrase.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/randomPhrase.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/valorPosNeg.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/valorPosNeg.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise/vendasMaca.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/vendasMaca.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise/maiorIdade.c" beforeDir="false" afterPath="$PROJECT_DIR$/exercise/maiorIdade.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +58,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -82,18 +74,34 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/exercise/alunoNota.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/calcVol.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/calculadora.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/ctoF.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/daysBirth.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/exercise/divisor.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/decrescente.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/divisor.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/doWhileLer.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/dolarToReal.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/doubleTriple.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/fatorial.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/funcDivCinco.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/funcImparPar.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/funcMaiorMenor.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/funcTipo.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/funcZero.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/helloWorld.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/imc.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/impar.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/maiorIdade.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/mediaCon.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/numAnSu.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/numPrimo.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/numsDiv.c" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/exercise/randomPhrase.c" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/exercise/valorPosNeg.c" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/exercise/vendasMaca.c" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/somatoriaPar.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/valorPosNeg.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/exercise/vendasMaca.c" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -169,7 +177,23 @@
       <workItem from="1723834617712" duration="2375000" />
       <workItem from="1724004701408" duration="770000" />
       <workItem from="1724163022425" duration="100000" />
-      <workItem from="1724439704990" duration="3777000" />
+      <workItem from="1724439704990" duration="4680000" />
+      <workItem from="1724445636496" duration="1536000" />
+      <workItem from="1724671668771" duration="65000" />
+      <workItem from="1724692270852" duration="1694000" />
+      <workItem from="1724695312108" duration="2441000" />
+      <workItem from="1724707791451" duration="1017000" />
+      <workItem from="1724767324461" duration="2506000" />
+      <workItem from="1724773597364" duration="42000" />
+      <workItem from="1725469847398" duration="17000" />
+      <workItem from="1725633423301" duration="110000" />
+      <workItem from="1725633683325" duration="1453000" />
+      <workItem from="1725647205660" duration="908000" />
+      <workItem from="1725978151322" duration="600000" />
+      <workItem from="1726101214886" duration="681000" />
+      <workItem from="1726612633235" duration="8000" />
+      <workItem from="1726849343766" duration="411000" />
+      <workItem from="1727108135677" duration="3968000" />
     </task>
     <task id="LOCAL-00001" summary="adding lab.algorithm exercises">
       <option name="closed" value="true" />
@@ -179,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723781189941</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding new exercise files">
+      <option name="closed" value="true" />
+      <created>1724772366193</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724772366193</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +235,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab.algorithm exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab.algorithm exercises" />
+    <MESSAGE value="adding new exercise files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new exercise files" />
   </component>
 </project>
